@@ -1,0 +1,15 @@
+{
+  "name": "create-tailconfig",
+  "version": "1.0.0",
+  "description": "Bradley Dirheimer",
+  "main": "createTail.js",
+  "scripts": {
+    "create": "node src/createTail.js"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss-config"
+  ],
+  "author": "",
+  "license": "ISC"
+}
