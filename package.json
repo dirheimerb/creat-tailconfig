@@ -1,7 +1,7 @@
 {
   "name": "create-tailconfig",
   "version": "1.0.0",
-  "description": "Bradley Dirheimer",
+  "description": "A CLI tool to create a tailwind config file",
   "main": "createTail.js",
   "scripts": {
     "create": "node src/createTail.js"
@@ -10,6 +10,6 @@
     "tailwind",
     "tailwindcss-config"
   ],
-  "author": "",
+  "author": "Bradley Dirheimer",
   "license": "ISC"
 }
