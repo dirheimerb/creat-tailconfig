@@ -31,6 +31,6 @@ module.exports = {
 
 
 
-fs.writeFileSync('tailwindconfig.js', tailwindConfig, 'utf8')
+fs.writeFileSync('tailwind.config.js', tailwindConfig, 'utf8')
 fs.writeFileSync('postcss.config.js', postCSSConfig, 'utf8')
 fs.writeFileSync('tailwind.css', tailCSS, 'utf8')
